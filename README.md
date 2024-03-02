@@ -27,6 +27,12 @@ Data visualization experiments with the Art Institute of Chicago API.
 
 This project is licensed under the [Apache License, version 2.0](https://github.com/lizlove/kate-lovero/blob/main/LICENSE).
 
+## References
+
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+- [Art Institute of Chicago API docs](https://api.artic.edu/docs/)
+- [Art Institute of Chicago API github repo](https://github.com/art-institute-of-chicago/data-aggregator)
+
 ## Author
 
 - **Liz Lovero** - [lizlove](https://github.com/lizlove)
